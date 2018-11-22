@@ -5,7 +5,6 @@ img {
 	width: 20%; 
 	height: 20%;
 }
-}
 .group-one {
 	display: inline-block;
 }
@@ -19,4 +18,5 @@ img {
 .coder-five,
 .coder-six {
 	margin: 1%;
+	filter: opacity(60%);
 }
